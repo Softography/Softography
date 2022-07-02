@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Softography
+- 👋 Hi, I’m olabode joshua
 - 👀 I’m interested in web design 
 - 🌱 I’m currently learning web designing 
 - 💞️ I’m looking to collaborate on building a photography website 
